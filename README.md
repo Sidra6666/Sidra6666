@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sidra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ubVMcbvof7CUfBVB7">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidra6666&label=Profile%20views&color=0e75b6&style=flat" alt="sidra6666" /> </p>
-<p align="left"> <a href="https://twitter.com/sidra04519255" target="blank"><img src="https://img.shields.io/twitter/follow/sidra04519255?logo=twitter&style=for-the-badge" alt="sidra04519255" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ubVMcbvof7CUfBVB7"/>
+ 
 
 - 🔭 I’m currently working on **a project handtohand**
 
