@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sidra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ubVMcbvof7CUfBVB7"/>
+
  
 
 - 🔭 I’m currently working on **a project handtohand**
