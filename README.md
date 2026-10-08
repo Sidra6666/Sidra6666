@@ -4,13 +4,13 @@
 
  
 
-- 🔭 I’m currently working on **a project handtohand**
+- 🔭 I’m currently working on Security Projects.
 
 - 🌱 I’m currently learning **Node.js,Ruby**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 💬 Ask me about **python,frontend**
+- 💬 Ask me about Networking ,Cybersecurity , AWS ,Ethical Hacking ,SOC
 
 - 📫 How to reach me **sidraktkdr@gmail.com**
 
