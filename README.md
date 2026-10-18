@@ -2,7 +2,7 @@
 
 <img src="assets/cyber-cat.svg" width="100%" alt="Animated cyber cat walking across the screen" />
 
-# Hi, I'm Sidra 👋
+# Hi, I'm Sidra ✦
 
 **Cybersecurity Learner · Ethical Hacking · Linux · SOC & Blue Team**
 
