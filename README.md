@@ -6,7 +6,7 @@
 <tr>
 <td width="150" height="160" align="center" valign="middle">
 
-<img src="assets/heh.png" width="200" alt="Left image"/>
+<img src="assets/heh.png" width="350" height="350" alt="Left image"/>
 
 </td>
 <td width="550" height="160" align="center" valign="middle">
