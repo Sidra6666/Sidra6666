@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h2>Cybersecurity · Ethical Hacking · Linux · SOC · Blue Team</h2>
+  <h2>Cybersecurity · Networking · Ethical Hacking · Linux · SOC · Blue Team</h2>
 </div>
 
 
