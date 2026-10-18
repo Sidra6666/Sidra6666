@@ -1,38 +1,61 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sidra</h1>
-<h3 align="center">Cyber Security Analyst </h3>
+<img src="assets/cyber-cat.svg" width="100%" alt="Animated cyber cat walking across the screen" />
 
- 
+# Hi, I'm Sidra 👋
 
-- 🔭 I’m currently working on Security Projects.
+**Cybersecurity Learner · Ethical Hacking · Linux · SOC & Blue Team**
 
-- 🌱 I’m currently learning **Node.js,Ruby**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=100&section=header" width="100%" alt="" />
 
-- 👯 I’m looking to collaborate on **Cloud native projects**
+</div>
 
-- 💬 Ask me about Networking ,Cybersecurity , AWS ,Ethical Hacking ,SOC
+## whoami
 
-- 📫 How to reach me **sidraktkdr@gmail.com**
+I'm Sidra, a cybersecurity learner exploring how systems work, how they break, and how to secure them.  
+I'm building my skills in **ethical hacking, Linux, network security, SOC analysis, and security tools** through hands-on labs and practice.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔐 Interested in ethical hacking and defensive security
+- 🐧 Learning Linux, networking, and security-focused workflows
+- 🧪 Practising in labs and CTF environments
+- 🌱 Always learning, documenting, and improving
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sidra_____778ec721f686268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sidra_____778ec721f686268" height="30" width="40" /></a>
-<a href="https://twitter.com/sidra04519255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidra04519255" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sidra-171177229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidra-171177229" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sidra_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sidra_666" height="30" width="40" /></a>
-<a href="https://kaggle.com/sidra6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sidra6666" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sidraktkdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sidraktkdr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sidraktkdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidraktkdr" height="30" width="40" /></a>
-<a href="https://discord.gg/hewplanet#4339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hewplanet#4339" height="30" width="40" /></a>
+---
+
+## Languages I know
+
+<div align="center">
+
+| Python | C | JavaScript | HTML | CSS | PHP |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" alt="C" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP" /> |
+
+</div>
+
+## Cybersecurity tools
+
+<div align="center">
+
+| Nmap | Wireshark | Docker | Git | Kali Linux | GNS3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Nmap icon placeholder" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="42" alt="Wireshark" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Kali Linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="42" alt="GNS3" /> |
+
+</div>
+
+<p align="center">
+  <sub>Currently learning: network analysis, Linux administration, ethical hacking, and SOC fundamentals.</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> </p>
+## Find me around the lab
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidra6666&show_icons=true&locale=en&layout=compact" alt="sidra6666" /></p>
+<div align="center">
+  <img src="assets/walking-cat.gif" width="150" alt="Cute pixel cat walking" />
+  <br />
+  <i>little steps, big packets 🐾</i>
+</div>
 
+---
+
+<div align="center">
+  <i>“Learn it. Test it. Secure it.”</i>
+</div>
