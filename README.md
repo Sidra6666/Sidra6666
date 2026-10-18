@@ -1,20 +1,18 @@
+
+
 <div align="center">
 
 <table>
 <tr>
-<td width="150" height="100" align="center" valign="middle">
-
-<img src="./assets/heh.png" alt="Left image" style="width:500px; max-width:100%; height:auto;">
-
+<td width="150" align="center" valign="middle">
+<img src="./assets/heh.png" width="120" alt="Left image"/>
 </td>
-<td width="550" height="160" align="center" valign="middle">
 
-<img src="assets/hi.png" width="520" alt="Image inside the rectangle"/>
-
+<td width="550" align="center" valign="middle">
+<img src="./assets/hi.png" width="520" alt="Image inside the rectangle"/>
 </td>
 </tr>
 </table>
-
 
 </div>
 **Cybersecurity · Ethical Hacking · Linux · SOC & Blue Team**
