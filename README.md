@@ -1,10 +1,8 @@
-
-
-  <div align="center">
+<div align="center">
 
 <table>
 <tr>
-<td width="150" height="160" align="center" valign="middle">
+<td width="150" height="100" align="center" valign="middle">
 
 <img src="./assets/heh.png" alt="Left image" style="width:500px; max-width:100%; height:auto;">
 
