@@ -17,7 +17,6 @@
 </div>
 **Cybersecurity · Ethical Hacking · Linux · SOC & Blue Team**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=100&section=header" width="100%" alt="" />
 
 </div>
 
