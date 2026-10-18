@@ -15,7 +15,11 @@
 </table>
 
 </div>
-**Cybersecurity · Ethical Hacking · Linux · SOC & Blue Team**
+
+<div align="center">
+  <h2>Cybersecurity · Ethical Hacking · Linux · SOC · Blue Team</h2>
+</div>
+
 
 
 </div>
