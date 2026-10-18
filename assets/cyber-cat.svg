@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <rect width="800" height="120" rx="12" fill="#0d0b12"/>
+  <path d="M0 91 H800" stroke="#49304e" stroke-width="2"/>
+  <circle cx="70" cy="28" r="1.5" fill="#e8b4cb"/>
+  <circle cx="320" cy="42" r="1.5" fill="#c4b5fd"/>
+  <circle cx="710" cy="25" r="2" fill="#e8b4cb"/>
+  <text x="18" y="24" fill="#b9a0c9" font-family="monospace" font-size="11">sidra@cyberlab:~$ ./meow.sh</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-100 0" to="900 0" dur="12s" repeatCount="indefinite"/>
+    <g transform="translate(0 15)">
+      <ellipse cx="35" cy="62" rx="23" ry="17" fill="#292331"/>
+      <path d="M17 61 Q-5 44 7 35 Q17 32 18 48" fill="none" stroke="#292331" stroke-width="7" stroke-linecap="round">
+        <animate attributeName="d" values="M17 61 Q-5 44 7 35 Q17 32 18 48;M17 61 Q-4 77 8 81 Q18 80 19 66;M17 61 Q-5 44 7 35 Q17 32 18 48" dur="1s" repeatCount="indefinite"/>
+      </path>
+      <path d="M43 47 L45 28 L57 42 L66 30 L68 51" fill="#292331" stroke="#e8b4cb" stroke-width="1.5" stroke-linejoin="round"/>
+      <circle cx="56" cy="50" r="17" fill="#292331"/>
+      <ellipse cx="51" cy="49" rx="3" ry="4" fill="#a5f3fc"/>
+      <ellipse cx="63" cy="49" rx="3" ry="4" fill="#a5f3fc"/>
+      <path d="M54 58 Q57 61 60 58" fill="none" stroke="#e8b4cb" stroke-width="1.5"/>
+      <path d="M67 56 L77 54 M67 60 L78 62" stroke="#9c8ba8" stroke-width="1"/>
+      <g stroke="#e8b4cb" stroke-width="4" stroke-linecap="round">
+        <path d="M22 72 L18 81 M43 74 L47 81">
+          <animate attributeName="d" values="M22 72 L18 81 M43 74 L47 81;M22 72 L26 81 M43 74 L39 81;M22 72 L18 81 M43 74 L47 81" dur="0.4s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <path d="M73 32 l3 -6 l3 6 l6 3 l-6 3 l-3 6 l-3 -6 l-6 -3 Z" fill="#e8b4cb">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+  <text x="18" y="109" fill="#e8b4cb" font-family="monospace" font-size="10">♡ tiny cyber cat on patrol ♡</text>
+</svg>
