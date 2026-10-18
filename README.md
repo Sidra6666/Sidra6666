@@ -17,7 +17,6 @@
 </tr>
 </table>
 
-<p><code>💚 hello world! im sidra_</code></p>
 
 </div>
 **Cybersecurity · Ethical Hacking · Linux · SOC & Blue Team**
