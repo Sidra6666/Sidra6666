@@ -6,7 +6,7 @@
 <tr>
 <td width="150" height="160" align="center" valign="middle">
 
-<img src="https://placehold.co/110x120/10131c/dce5f5?text=YOUR+IMG" width="110" alt="Left image"/>
+<img src="assets/heh.png" width="110" alt="Left image"/>
 
 </td>
 <td width="550" height="160" align="center" valign="middle">
