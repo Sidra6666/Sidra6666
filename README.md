@@ -11,7 +11,7 @@
 </td>
 <td width="550" height="160" align="center" valign="middle">
 
-<img src="your-image.png" width="520" alt="Image inside the rectangle"/>
+<img src="assets/hi-luv.jpeg" width="520" alt="Image inside the rectangle"/>
 
 </td>
 </tr>
