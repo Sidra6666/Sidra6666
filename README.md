@@ -2,17 +2,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="150" align="center" valign="middle">
-<img src="./assets/heh.png" width="120" alt="Left image"/>
-</td>
+
+
 
 <td width="550" align="center" valign="middle">
-<img src="./assets/hi.png" width="520" alt="Image inside the rectangle"/>
-</td>
-</tr>
-</table>
+<img src="./assets/Group 296.png" width="520" alt="Image inside the rectangle"/>
+
 
 </div>
 
