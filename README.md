@@ -42,9 +42,7 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 
 </div>
 
-<p align="center">
-  <sub>Currently learning: network analysis, Linux administration, ethical hacking, and SOC fundamentals.</sub>
-</p>
+
 
 ## Find me around the lab
 
