@@ -1,9 +1,25 @@
-<div align="center">
 
-<img src="assets/cyber-cat.svg" width="100%" alt="Animated cyber cat walking across the screen" />
 
-# Hi, I'm Sidra ✦
+  <div align="center">
 
+<table>
+<tr>
+<td width="150" height="160" align="center" valign="middle">
+
+<img src="https://placehold.co/110x120/10131c/dce5f5?text=YOUR+IMG" width="110" alt="Left image"/>
+
+</td>
+<td width="550" height="160" align="center" valign="middle">
+
+<img src="your-image.png" width="520" alt="Image inside the rectangle"/>
+
+</td>
+</tr>
+</table>
+
+<p><code>💚 hello world! im sidra_</code></p>
+
+</div>
 **Cybersecurity · Ethical Hacking · Linux · SOC & Blue Team**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=100&section=header" width="100%" alt="" />
