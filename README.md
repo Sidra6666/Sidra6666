@@ -12,13 +12,13 @@
 
 ## whoami
 
-I'm Sidra, a cybersecurity learner exploring how systems work, how they break, and how to secure them.  
-I'm building my skills in **ethical hacking, Linux, network security, SOC analysis, and security tools** through hands-on labs and practice.
+I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulnerability analysis, and strengthening system security.
 
-- 🔐 Interested in ethical hacking and defensive security
-- 🐧 Learning Linux, networking, and security-focused workflows
-- 🧪 Practising in labs and CTF environments
-- 🌱 Always learning, documenting, and improving
+- 🔐 Focused on threat detection and defensive security
+- 🐧 Skilled in Linux fundamentals, networking, and system security
+- 🛡️ Interested in SOC operations, security monitoring, and incident response
+- 🧪 Experienced in hands-on labs and Capture the Flag (CTF) challenges
+- 🌐 Passionate about identifying vulnerabilities and improving security posture
 
 ---
 
