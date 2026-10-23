@@ -75,7 +75,7 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 <img src="assets/burp.svg" width="42" alt="Burp Suite" />
 </td>
 <td align="center" width="100">
-<img src="https://gns3.com/assets/images/gns3_logo.png" width="42" alt="GNS3" />
+<img src="assets/gns3.png" width="42" alt="GNS3" />
 </td>
 </tr>
 </table>
