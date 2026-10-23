@@ -45,9 +45,40 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 
 <div align="center">
 
-| Nmap | Wireshark | Docker | Kali Linux | GNS3 | Burp |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="assets/nmaplogo.svg" width="42" alt="Nmap icon placeholder" /> | <img src="assets/Wiresharkicon.png" width="42" alt="Wireshark" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Kali Linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="42" alt="GNS3" /> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/burp.svg" width="42" alt="GNS3" /> |
+<table>
+<tr>
+<th>Netcat</th>
+<th>Nmap</th>
+<th>Wireshark</th>
+<th>Docker</th>
+<th>Kali Linux (OS)</th>
+<th>Burp Suite</th>
+<th>GNS3</th>
+</tr>
+<tr>
+<td align="center" width="100" height="75">
+<img src="assets/netcat.svg" width="42" alt="Netcat" />
+</td>
+<td align="center" width="100">
+<img src="assets/nmaplogo.svg" width="42" alt="Nmap" />
+</td>
+<td align="center" width="100">
+<img src="assets/Wiresharkicon.png" width="42" alt="Wireshark" />
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" />
+</td>
+<td align="center" width="100">
+<img src="assets/kalilinux.svg" width="42" alt="Kali Linux" />
+</td>
+<td align="center" width="100">
+<img src="assets/burp.svg" width="42" alt="Burp Suite" />
+</td>
+<td align="center" width="100">
+<img src="https://gns3.com/assets/images/gns3_logo.png" width="42" alt="GNS3" />
+</td>
+</tr>
+</table>
 
 </div>
 
