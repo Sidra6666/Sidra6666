@@ -76,7 +76,7 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 <img src="assets/burpsuite.png" width="42" alt="Burp Suite" />
 </td>
 <td align="center" width="100">
-<img src="assets/burpsuite.png" width="42" alt="Metasploit" />
+<img src="assets/Metasploit.png" width="50" alt="Metasploit" />
 </td>
 <td align="center" width="100">
 <img src="assets/gns3.png" width="42" alt="GNS3" />
