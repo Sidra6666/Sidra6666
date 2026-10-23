@@ -51,7 +51,7 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 <th>Nmap</th>
 <th>Wireshark</th>
 <th>Docker</th>
-<th>KaliLinux(OS)</th>
+<th>KaliLinux</th>
 <th>BurpSuite</th>
 <th>GNS3</th>
 </tr>
