@@ -51,25 +51,25 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 <th>Nmap</th>
 <th>Wireshark</th>
 <th>Docker</th>
-<th>Kali Linux (OS)</th>
-<th>Burp Suite</th>
+<th>KaliLinux(OS)</th>
+<th>BurpSuite</th>
 <th>GNS3</th>
 </tr>
 <tr>
 <td align="center" width="100" height="75">
-<img src="assets/netcat.svg" width="42" alt="Netcat" />
+<img src="assets/netcat.svg" width="50" alt="Netcat" />
 </td>
 <td align="center" width="100">
-<img src="assets/nmaplogo.svg" width="42" alt="Nmap" />
+<img src="assets/nmaplogo.svg" width="54" alt="Nmap" />
 </td>
 <td align="center" width="100">
 <img src="assets/Wiresharkicon.png" width="42" alt="Wireshark" />
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" alt="Docker" />
 </td>
 <td align="center" width="100">
-<img src="assets/kalilinux.svg" width="42" alt="Kali Linux" />
+<img src="assets/kalilinux.svg" width="64" alt="Kali Linux" />
 </td>
 <td align="center" width="100">
 <img src="assets/burpsuite.png" width="42" alt="Burp Suite" />
