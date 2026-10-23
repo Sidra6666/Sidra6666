@@ -47,7 +47,7 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 
 | Nmap | Wireshark | Docker | Kali Linux | GNS3 | Burp |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="assets/nmaplogo.svg" width="42" alt="Nmap icon placeholder" /> | <img src="assets/Wiresharkicon.png" width="42" alt="Wireshark" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Kali Linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="42" alt="GNS3" /> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="42" alt="GNS3" /> |
+| <img src="assets/nmaplogo.svg" width="42" alt="Nmap icon placeholder" /> | <img src="assets/Wiresharkicon.png" width="42" alt="Wireshark" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Kali Linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="42" alt="GNS3" /> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/burp.svg" width="42" alt="GNS3" /> |
 
 </div>
 
