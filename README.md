@@ -53,6 +53,7 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 <th>Docker</th>
 <th>KaliLinux</th>
 <th>BurpSuite</th>
+<th>Metasploit</th>
 <th>GNS3</th>
 </tr>
 <tr>
@@ -73,6 +74,9 @@ I'm Sidra, an aspiring Cybersecurity Analyst focused on threat detection, vulner
 </td>
 <td align="center" width="100">
 <img src="assets/burpsuite.png" width="42" alt="Burp Suite" />
+</td>
+<td align="center" width="100">
+<img src="assets/burpsuite.png" width="42" alt="Metasploit" />
 </td>
 <td align="center" width="100">
 <img src="assets/gns3.png" width="42" alt="GNS3" />
